@@ -70,7 +70,7 @@ Disciplina: INTELIGÊNCIA ARTIFICIAL
 Professor(a): THALES LEVI AZEVEDO VALENTE
 Instituição: Universidade Federal do Maranhão
 
-Se quiser, posso gerar esse README em .md, .txt ou até embutir no notebook como uma célula explicativa. Deseja exportar ou inserir no notebook?
+
 
 
 
